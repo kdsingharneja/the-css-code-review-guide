@@ -52,7 +52,7 @@ Go To
 * Avoid using comma delimited selectors.
 * Avoid nesting within a media query.
 
-## SAAS
+## SASS
 
 Deferring to [Sass guidelines](http://sass-guidelin.es/)
 
